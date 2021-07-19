@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/tuio
+END
+TuioCursor.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/tuio/TuioCursor.as
+END
+ITuioListener.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/tuio/ITuioListener.as
+END
+TuioBlob.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/tuio/TuioBlob.as
+END
+TuioClient.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/tuio/TuioClient.as
+END
+TuioContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/tuio/TuioContainer.as
+END
+TuioObject.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/tuio/TuioObject.as
+END
+TuioError.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/tuio/TuioError.as
+END

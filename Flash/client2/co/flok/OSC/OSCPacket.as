@@ -1,0 +1,1 @@
+﻿package co.flok.OSC{public class OSCPacket{public var address;public var port;public var time;public var xmlData;// *** OSCPacket constructor / class definitionpublic function OSCPacket(address, port, time, xmlData) {	this.address = address;	this.port = port;	this.time = time;	this.xmlData = xmlData;}};}

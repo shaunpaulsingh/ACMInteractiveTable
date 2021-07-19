@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc
+END
+IOSCConnectorListener.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/IOSCConnectorListener.as
+END
+OSCBundle.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/OSCBundle.as
+END
+OSCManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/OSCManager.as
+END
+OSCTimetag.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/OSCTimetag.as
+END
+TCPConnector.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/TCPConnector.as
+END
+IOSCListener.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/IOSCListener.as
+END
+OSCAddressSpace.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/OSCAddressSpace.as
+END
+OSCContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/OSCContainer.as
+END
+IOSCConnector.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/IOSCConnector.as
+END
+LCConnector.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/LCConnector.as
+END
+OSCMessage.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/OSCMessage.as
+END
+OSCReceiver.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/OSCReceiver.as
+END
+OSCPacket.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/flokdev/!svn/ver/119/ACMCongo.InteractiveTable/trunk/Flash/client/org/tuio/osc/OSCPacket.as
+END
